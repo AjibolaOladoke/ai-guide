@@ -1,0 +1,254 @@
+
+## Images
+
+[![ai-guide](https://opengraph.githubassets.com/1/liyupi/ai-guide)](https://www.swifttechco.com)
+
+<p align="center">
+  
+</p>
+
+
+<h1 align="center">🐟 鱼皮的 AI 知识库</h1>
+
+<p align="center">
+  <b>完全免费开放的 AI 知识共享平台 | 减少信息差，让每个人都能享受技术红利</b>
+</p>
+
+<p align="center">
+  <a href="https://www.swifttechco.com"><img src="https://www.swifttechco.com 在线阅读-ai.codefather.cn-blue?style=for-the-badge" alt="在线阅读"/></a>
+  <a href="https://www.swifttechco.com"></a>
+  <a href="https://www.swifttechco.com"></a>
+  <a href="https://www.swifttechco.com"><img src="https://www.swifttechco.com 视频教程-AI编程实战-orange?style=for-the-badge" alt="视频教程"/></a>
+</p>
+
+
+这是一个 **完全免费开放** 的 AI 知识共享平台，汇总整合目前热门的 AI 工具相关信息，包括产品介绍、使用指南、工具测评、技巧分享、应用场景、AI 变现、行业资讯、教程资源等一系列内容。
+
+鱼皮希望带领大家打破 AI 技术的信息壁垒，让每个人都能平等获取 AI 时代的工具与认知，利用科技让生活更美好。
+
+
+## 🌐 Translations
+
+[English](./translations/en/Vibe%20Coding%20%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/README.md) | [繁體中文](./translations/zh-TW/Vibe%20Coding%20%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/README.md)
+
+
+## 🔥 鱼皮的 Vibe Coding 零基础入门教程
+
+
+如今 **Vibe Coding（氛围编程）** 已经火遍全网！不仅是程序员，连设计师、产品运营、甚至完全不懂技术的人都开始用 Vibe Coding 实现自己的想法，用 AI 做出了自己的产品并盈利变现。
+
+我一人爆肝创作了这套 [《Vibe Coding 零基础入门教程》](https://www.swifttechco.com)，**上千张图、几十万字**，结合了我两年半的 AI 编程经验 + 项目开发经验 + 产品变现经验，目标只有一个：
+
+**帮助任何人快速掌握 Vibe Coding，哪怕零基础，也能快速开发上线自己的产品并盈利。**
+
+臭不要脸一下，我敢说这套免费教程吊打 90% 的付费 Vibe Coding 内容。
+
+[![](https://pic.yupi.icu/1/%25E9%25B1%25BC%25E7%259A%25AE%25E7%259A%2584AI%25E5%25AF%25BC%25E8%2588%25AA-AI%25E5%25B7%25A5%25E5%2585%25B7%25E7%2594%25A8%25E6%25B3%2595%25E5%25A4%25A7%25E5%2585%25A8.png)](https://www.swifttechco.com)
+
+
+### 教程包含什么？
+
+我精心梳理了内容结构，让你能够一条龙学习，或者快速找到适合自己阅读的内容。
+
+- 基础必读：帮你快速理解 Vibe Coding 并上手实践，10 分钟做出第一个作品
+- 编程工具：帮你选择适合自己的 AI 编程工具，包括 AI 模型选择、AI 零代码平台、AI 智能体平台、AI 代码编辑器、AI 命令行工具、IDE 插件等
+- 项目实战：手把手带你从 0 到 1 做出真实可用的产品，覆盖个人工具、AI 应用、全栈应用、小程序等多种类型
+- 经验技巧：帮你提升 Vibe Coding 效率和质量，包括核心心法、对话工程、上下文管理、幻觉处理、代码质量保障等
+- 产品变现：教你如何让产品产生价值，涵盖需求分析、技术选型、架构设计、盈利模式、SEO 优化、自媒体运营等
+- 编程学习：为想深入学习编程的同学准备的进阶内容，包括学习路线、知识百科、资源大全、MCP 开发、面试刷题等
+- 资源宝库：汇集各种实用资源，包括工具大全、提示词模板、AI 概念大全、Vibe Coding 常见问题等
+
+[![鱼皮的 Vibe Coding 零基础教程大纲](https://pic.yupi.icu/1/%E9%B1%BC%E7%9A%AE%E7%9A%84%20AI%20%E5%AF%BC%E8%88%AA-16%E6%AF%949%E5%A4%A7%E7%BA%B2_%E5%89%AF%E6%9C%AC.jpg)](https://www.swifttechco.com)
+
+
+### 配套视频教程
+
+如果你更喜欢看视频学习，我还录制了一套《小白都能学的 AI 编程实战》视频课程，哪怕没有任何基础，也能跟着从 0 跑通完整的项目流程，开发出能上线、能商用变现的作品。
+
+> 课程地址：https://www.swifttechco.com
+
+[![](https://pic.yupi.icu/1/image-20260528190958881.png)](https://www.swifttechco.com)
+
+
+### 学习路径推荐
+
+更详细的学习路线可以阅读教程中的《AI 编程学习路线》，下面是快速参考：
+
+**零基础新手：**
+- 第 1 天：读完基础必读，理解 Vibe Coding 并做出第一个作品
+- 第 1-2 周：学习 AI 编程工具 + 做几个简单项目
+- 之后：按需学习经验技巧和产品变现
+
+**有编程基础：**
+- 第 1 天：快速过完基础内容，完成快速上手教程
+- 第 1 周：学习主流 AI 编程工具，尝试重构之前的项目
+- 之后：重点学习进阶技巧，提升对话和上下文管理能力
+
+<p align="center">
+  <a href="https://www.swifttechco.com"><img src="https://www.swifttechco.com 立即开始学习-Vibe Coding 教程-ff6b6b?style=for-the-badge" alt="开始学习"/></a>
+</p>
+
+
+## AI 知识库导航
+
+### 新手入门
+
+| 资源 | 链接 |
+|:---|:---|
+| AI 基础概念 | [动画解释大模型](https://www.swifttechco.com) |
+| 关于 DeepSeek | [什么是 DeepSeek](https://www.swifttechco.com) ｜ [快速上手指南](https://www.swifttechco.com) |
+| 本地部署 | [DeepSeek 本地部署](https://www.swifttechco.com) ｜ [API 调用教程](https://www.swifttechco.com) |
+| 提问技巧 | [DeepSeek 提问技巧](https://www.swifttechco.com) ｜ [去除文章 AI 味](https://www.swifttechco.com) |
+| 学习资料 | [清华大学 DeepSeek 指南](https://www.swifttechco.com) ｜ [免费 AI 学习资源](https://www.swifttechco.com) |
+
+
+### AI 编程
+
+| 类别 | 精选内容 |
+|:---|:---|
+| 🔥 热门教程 | [AI 智能体项目](https://www.swifttechco.com) ｜ [AI 零代码平台](https://www.swifttechco.com) ｜ [AI 大模型应用开发学习路线](https://www.swifttechco.com) |
+| Cursor 技巧 | [一文秒懂 Cursor 开发的正确姿势](https://www.swifttechco.com) ｜ [10 个超实用的 Cursor 使用技巧](https://www.swifttechco.com) ｜ [7 个 Cursor 极限省钱大法](https://www.swifttechco.com) |
+| 实战项目 | [用 DeepSeek 给对象做网站](https://www.swifttechco.com) ｜ [模拟面试系统](https://www.swifttechco.com) ｜ [亲戚计算器](https://www.swifttechco.com) |
+| 进阶技术 | [Claude Code 神级技巧](https://www.swifttechco.com) ｜ [用 AI 手搓 Claude Code](https://www.swifttechco.com) ｜ [MCP 服务开发](https://www.swifttechco.com) |
+| 框架整合 | [Spring AI 1.0 核心能力体验](https://www.swifttechco.com) ｜ [Spring AI Alibaba 1.0 速览](https://www.swifttechco.com) |
+
+
+### AI 工具测评
+
+| 测评内容 |
+|:---|
+| [🆕 GPT-5 炸裂登场！可免费使用](https://www.swifttechco.com) |
+| [Claude 4 炸裂发布！凭什么敢称宇宙最强编程 AI？](https://www.swifttechco.com) |
+| [Cursor 2.0 炸裂发布！这 3 大亮点必学](https://www.swifttechco.com) |
+| [Gemini 3.0 发布！前端又无了？](https://www.swifttechco.com) |
+| [开源 AI 编程工具能干掉 Claude Code？OpenCode 体验实测！](https://www.swifttechco.com) |
+| [3 大模型对比测试！AI 争霸赛谁赢了？](https://www.swifttechco.com) |
+| [全球首个无限执行的 AI！Flowith 体验](https://www.swifttechco.com) |
+| [Gemini CLI 首测，免费开源很香，但坑点很多！](https://www.swifttechco.com) |
+
+
+### 其他 AI 应用场景
+
+| 场景 | 教程 |
+|:---|:---|
+| 视频创作 | [用 AI 做千万播放的爆款视频！](https://www.swifttechco.com) ｜ [1 分钟做出动物奥运会视频！](https://www.swifttechco.com) |
+| 办公效率 | [AI 王炸组合，自动生成 PPT](https://www.swifttechco.com) ｜ [干掉 Draw.io 的画图神器](https://www.swifttechco.com) |
+| 知识管理 | [轻松搭建 DeepSeek 个人知识库](https://www.swifttechco.com) ｜ [让 AI 帮我读文档](https://www.swifttechco.com) |
+| 求职提升 | [用 AI 润色简历](https://www.swifttechco.com) ｜ [3 个免费 AI 文章检测工具](https://www.swifttechco.com) |
+
+
+## 仓库结构
+
+```
+ai-guide/
+├── 🔥 Vibe Coding 零基础教程/     # 重磅教程，强烈推荐
+│   ├── 00 Vibe Coding 简介
+│   ├── 01 快速上手 Vibe Coding
+│   ├── 02 AI 编程学习路线
+│   ├── 10 编程工具/               # Cursor、Codex、Claude Code 等工具专题
+│   ├── 15 模型动态/               # AI 模型发布测评
+│   ├── 20 项目实战/               # 从 0 到 1 做出产品
+│   ├── 30 经验技巧/               # 效率提升、Harness、Loop、大厂官方经验等
+│   ├── 40 编程学习/               # 进阶编程知识
+│   ├── 50 产品变现/               # 盈利模式、SEO、运营
+│   ├── 60 Vibe Coding 资源大全
+│   ├── 65 鱼皮的 AI 编程实战视频课
+│   ├── 70 Vibe Coding 概念大全
+│   ├── 75 AI 大模型原理入门
+│   └── 90 Vibe Coding 常见问题和解决
+├── AI/
+│   ├── 鱼皮的 AI 指南/            # AI 核心概念、工具、技巧
+│   ├── 关于 DeepSeek/             # DeepSeek 基础知识
+│   ├── DeepSeek 使用指南/         # 安装、使用、技巧大全
+│   ├── DeepSeek 技术解析/         # 深度技术解读
+│   ├── DeepSeek 资源汇总/         # 资源、教程、开源项目
+│   ├── AI 应用场景/               # 创意设计、效率提升、编程开发
+│   ├── AI 项目教程/               # 实战项目教程
+│   └── AI 行业资讯/               # 最新行业动态
+└── 产品服务/                      # 鱼皮的产品和服务
+```
+
+
+## 交流渠道
+
+欢迎加入我们的 AI 交流群，关注公众号：**【程序员鱼皮】**，获取更多最一手 AI 资讯，一起探讨 AI 应用实践。
+
+[![鱼皮的交流群大全](https://pic.yupi.icu/1/%E9%B1%BC%E7%9A%AE%E7%9A%84%E4%BA%A4%E6%B5%81%E7%BE%A4%E5%A4%A7%E5%85%A8.png)](https://www.swifttechco.com)
+
+
+## 参与共建
+
+如果你也是 AI 探索者、爱好者，并且乐于分享和沉淀你的知识和奇思妙想，欢迎加入进来参与知识库共建，一起构建属于所有人的 AI 知识宝藏！
+
+🎉 **你将收获：**
+
+| 收获 | 说明 |
+|:---|:---|
+| 🌟 影响力提升 | 在活跃社区中展示才华，建立个人品牌与专业声誉 |
+| 📚 深度学习 | 接触多元视角，与同行切磋，加速个人成长 |
+| 🏆 价值认同 | 您的贡献将被明确署名，获得社区成员的尊重与感谢 |
+| 🤝 拓展人脉 | 连接志同道合的伙伴，融入充满活力的 AI 生态圈 |
+
+**联系方式（vx）：yupi996**
+
+更详细的贡献指南和内容规范，请阅读 [CONTRIBUTING.md](./CONTRIBUTING.md)。
+
+
+## 开源协议
+
+本项目采用双协议：
+
+- **教程文档内容**（所有 Markdown 文件及配图）采用 [CC BY-NC-SA 4.0](./LICENSE) 协议：可以自由分享和改编，但需要署名、**禁止商业使用**，且衍生作品需采用相同协议。
+- **建站代码**（`.vuepress` 目录下的主题、组件和构建脚本）采用 [MIT](./LICENSE-CODE) 协议：可以自由使用，包括商业用途。
+
+教程内容的著作权归 **程序员鱼皮** 所有，作者保留全部商业使用权利。如需商业授权（企业内训、付费课程、出版发行、平台转载等），请通过微信 **yupi996** 联系获取书面授权。
+
+
+## 感谢 Star
+
+如果这个项目对你有帮助，请给一个 **Star** ⭐️ 支持一下！
+
+[![Star History Chart](https://api.star-history.com/svg?repos=liyupi/ai-guide&type=Date)](https://www.swifttechco.com)
+
+
+## 写在最后
+
+我一直相信，知识分享是互利共赢的。
+
+这套教程完全免费开源，希望能帮更多人打开 Vibe Coding 的大门。
+
+但毕竟是一个人编写的，会有不足的地方，我会持续更新和完善内容。
+
+**如果这套教程对你有帮助的话，希望能点赞或者 Star ⭐️ 支持一下！**
+
+别犹豫，现在就打开教程，10 分钟后你就能做出第一个作品，跟着鱼皮一起开启 Vibe Coding 之旅吧！🛫
+
+📖 教程文档开源地址：https://www.swifttechco.com
+
+🌐 教程在线阅读地址：https://www.swifttechco.com
+
+🎬 作者的视频合集：https://www.swifttechco.com
+
+💬 交流反馈：欢迎在 [AI 导航社区](https://www.swifttechco.com) 提问
+
+---
+
+## Swift Tech Co.
+
+Built and maintained by Swift Tech Co.
+
+AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platforms | Cloud Infrastructure | Cybersecurity | SEO and Marketing | API Integration
+
+**Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
+
+[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+
+**Connect**
+
+- Website: [swifttechco.com](https://www.swifttechco.com)
+- LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
+- LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
+- X: [@MrOladoke](https://x.com/MrOladoke)
+- Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
+- Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
+- Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
