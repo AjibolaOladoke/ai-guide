@@ -6,15 +6,13 @@ A practical reference entry for product and engineering: the ai-guide notes, exa
 
 ## Images
 
-[![ai-guide](images/preview.png)](https://github.com/Swift-Tech-Co)
+[![ai-guide](images/preview.png)](https://github.com/Swift-Tech-Co/ai-guide)
 
 ## 🌐 Translations
 
 [English](./translations/en/Vibe%20Coding%20%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/README.md) | [繁體中文](./translations/zh-TW/Vibe%20Coding%20%E9%9B%B6%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/README.md)
 
-
 ## 🔥 鱼皮的 Vibe Coding 零基础入门教程
-
 
 如今 **Vibe Coding（氛围编程）** 已经火遍全网！不仅是程序员，连设计师、产品运营、甚至完全不懂技术的人都开始用 Vibe Coding 实现自己的想法，用 AI 做出了自己的产品并盈利变现。
 
@@ -24,8 +22,7 @@ A practical reference entry for product and engineering: the ai-guide notes, exa
 
 臭不要脸一下，我敢说这套免费教程吊打 90% 的付费 Vibe Coding 内容。
 
-[![](https://pic.yupi.icu/1/%25E9%25B1%25BC%25E7%259A%25AE%25E7%259A%2584AI%25E5%25AF%25BC%25E8%2588%25AA-AI%25E5%25B7%25A5%25E5%2585%25B7%25E7%2594%25A8%25E6%25B3%2595%25E5%25A4%25A7%25E5%2585%25A8.png)](https://www.swifttechco.com)
-
+[![](https://pic.yupi.icu/1/%25E9%25B1%25BC%25E7%259A%25AE%25E7%259A%2584AI%25E5%25AF%25BC%25E8%2588%25AA-AI%25E5%25B7%25A5%25E5%2585%25B7%25E7%2594%25A8%25E6%25B3%2595%25E5%25A4%25A7%25E5%2585%25A8.png)](https://github.com/Swift-Tech-Co/ai-guide)
 
 ### 教程包含什么？
 
@@ -39,17 +36,15 @@ A practical reference entry for product and engineering: the ai-guide notes, exa
 - 编程学习：为想深入学习编程的同学准备的进阶内容，包括学习路线、知识百科、资源大全、MCP 开发、面试刷题等
 - 资源宝库：汇集各种实用资源，包括工具大全、提示词模板、AI 概念大全、Vibe Coding 常见问题等
 
-[![鱼皮的 Vibe Coding 零基础教程大纲](https://pic.yupi.icu/1/%E9%B1%BC%E7%9A%AE%E7%9A%84%20AI%20%E5%AF%BC%E8%88%AA-16%E6%AF%949%E5%A4%A7%E7%BA%B2_%E5%89%AF%E6%9C%AC.jpg)](https://www.swifttechco.com)
-
+[![鱼皮的 Vibe Coding 零基础教程大纲](https://pic.yupi.icu/1/%E9%B1%BC%E7%9A%AE%E7%9A%84%20AI%20%E5%AF%BC%E8%88%AA-16%E6%AF%949%E5%A4%A7%E7%BA%B2_%E5%89%AF%E6%9C%AC.jpg)](https://github.com/Swift-Tech-Co/ai-guide)
 
 ### 配套视频教程
 
 如果你更喜欢看视频学习，我还录制了一套《小白都能学的 AI 编程实战》视频课程，哪怕没有任何基础，也能跟着从 0 跑通完整的项目流程，开发出能上线、能商用变现的作品。
 
-> 课程地址：https://www.swifttechco.com
+> 课程地址：https://github.com/Swift-Tech-Co/ai-guide
 
-[![](https://pic.yupi.icu/1/image-20260528190958881.png)](https://www.swifttechco.com)
-
+[![](https://pic.yupi.icu/1/image-20260528190958881.png)](https://github.com/Swift-Tech-Co/ai-guide)
 
 ### 学习路径推荐
 
@@ -66,9 +61,8 @@ A practical reference entry for product and engineering: the ai-guide notes, exa
 - 之后：重点学习进阶技巧，提升对话和上下文管理能力
 
 <p align="center">
-  <a href="https://www.swifttechco.com"><img src="https://www.swifttechco.com 立即开始学习-Vibe Coding 教程-ff6b6b?style=for-the-badge" alt="开始学习"/></a>
+  <a href="https://github.com/Swift-Tech-Co/ai-guide"><img src="https://github.com/Swift-Tech-Co/ai-guide 立即开始学习-Vibe Coding 教程-ff6b6b?style=for-the-badge" alt="开始学习"/></a>
 </p>
-
 
 ## AI 知识库导航
 
@@ -82,7 +76,6 @@ A practical reference entry for product and engineering: the ai-guide notes, exa
 | 提问技巧 | DeepSeek 提问技巧 ｜ 去除文章 AI 味 |
 | 学习资料 | 清华大学 DeepSeek 指南 ｜ 免费 AI 学习资源 |
 
-
 ### AI 编程
 
 | 类别 | 精选内容 |
@@ -92,7 +85,6 @@ A practical reference entry for product and engineering: the ai-guide notes, exa
 | 实战项目 | 用 DeepSeek 给对象做网站 ｜ 模拟面试系统 ｜ 亲戚计算器 |
 | 进阶技术 | Claude Code 神级技巧 ｜ 用 AI 手搓 Claude Code ｜ MCP 服务开发 |
 | 框架整合 | Spring AI 1.0 核心能力体验 ｜ Spring AI Alibaba 1.0 速览 |
-
 
 ### AI 工具测评
 
@@ -107,7 +99,6 @@ A practical reference entry for product and engineering: the ai-guide notes, exa
 | 全球首个无限执行的 AI！Flowith 体验 |
 | Gemini CLI 首测，免费开源很香，但坑点很多！ |
 
-
 ### 其他 AI 应用场景
 
 | 场景 | 教程 |
@@ -116,7 +107,6 @@ A practical reference entry for product and engineering: the ai-guide notes, exa
 | 办公效率 | AI 王炸组合，自动生成 PPT ｜ 干掉 Draw.io 的画图神器 |
 | 知识管理 | 轻松搭建 DeepSeek 个人知识库 ｜ 让 AI 帮我读文档 |
 | 求职提升 | 用 AI 润色简历 ｜ 3 个免费 AI 文章检测工具 |
-
 
 ## 仓库结构
 
@@ -149,13 +139,11 @@ ai-guide/
 └── 产品服务/                      # 鱼皮的产品和服务
 ```
 
-
 ## 交流渠道
 
 欢迎加入我们的 AI 交流群，关注公众号：**【程序员鱼皮】**，获取更多最一手 AI 资讯，一起探讨 AI 应用实践。
 
-[![鱼皮的交流群大全](https://pic.yupi.icu/1/%E9%B1%BC%E7%9A%AE%E7%9A%84%E4%BA%A4%E6%B5%81%E7%BE%A4%E5%A4%A7%E5%85%A8.png)](https://www.swifttechco.com)
-
+[![鱼皮的交流群大全](https://pic.yupi.icu/1/%E9%B1%BC%E7%9A%AE%E7%9A%84%E4%BA%A4%E6%B5%81%E7%BE%A4%E5%A4%A7%E5%85%A8.png)](https://github.com/Swift-Tech-Co/ai-guide)
 
 ## 参与共建
 
@@ -174,7 +162,6 @@ ai-guide/
 
 更详细的贡献指南和内容规范，请阅读 [CONTRIBUTING.md](./CONTRIBUTING.md)。
 
-
 ## 开源协议
 
 本项目采用双协议：
@@ -184,13 +171,11 @@ ai-guide/
 
 教程内容的著作权归 **程序员鱼皮** 所有，作者保留全部商业使用权利。如需商业授权（企业内训、付费课程、出版发行、平台转载等），请通过微信 **yupi996** 联系获取书面授权。
 
-
 ## 感谢 Star
 
 如果这个项目对你有帮助，请给一个 **Star** ⭐️ 支持一下！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=liyupi/ai-guide&type=Date)](https://www.swifttechco.com)
-
+[![Star History Chart](https://api.star-history.com/svg?repos=liyupi/ai-guide&type=Date)](https://github.com/Swift-Tech-Co/ai-guide)
 
 ## 写在最后
 
@@ -204,11 +189,11 @@ ai-guide/
 
 别犹豫，现在就打开教程，10 分钟后你就能做出第一个作品，跟着鱼皮一起开启 Vibe Coding 之旅吧！🛫
 
-📖 教程文档开源地址：https://www.swifttechco.com
+📖 教程文档开源地址：https://github.com/Swift-Tech-Co/ai-guide
 
-🌐 教程在线阅读地址：https://www.swifttechco.com
+🌐 教程在线阅读地址：https://github.com/Swift-Tech-Co/ai-guide
 
-🎬 作者的视频合集：https://www.swifttechco.com
+🎬 作者的视频合集：https://github.com/Swift-Tech-Co/ai-guide
 
 💬 交流反馈：欢迎在 AI 导航社区 提问
 
@@ -226,13 +211,21 @@ Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: swifttechco.com
+- Website: https://github.com/Swift-Tech-Co/ai-guide
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [liyupi/ai-guide](https://github.com/liyupi/ai-guide) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
 
 ## Sources
 
