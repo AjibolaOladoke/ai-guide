@@ -1,31 +1,12 @@
+# ai-guide
+
+## What This Is
+
+A practical reference entry for product and engineering: the ai-guide notes, examples and fixes we reach for repeatedly. Kept current as part of the wider Swift Tech Co. engineering library.
 
 ## Images
 
-[![ai-guide](https://opengraph.githubassets.com/1/liyupi/ai-guide)](https://www.swifttechco.com)
-
-<p align="center">
-  
-</p>
-
-
-<h1 align="center">🐟 鱼皮的 AI 知识库</h1>
-
-<p align="center">
-  <b>完全免费开放的 AI 知识共享平台 | 减少信息差，让每个人都能享受技术红利</b>
-</p>
-
-<p align="center">
-  <a href="https://www.swifttechco.com"><img src="https://www.swifttechco.com 在线阅读-ai.codefather.cn-blue?style=for-the-badge" alt="在线阅读"/></a>
-  <a href="https://www.swifttechco.com"></a>
-  <a href="https://www.swifttechco.com"></a>
-  <a href="https://www.swifttechco.com"><img src="https://www.swifttechco.com 视频教程-AI编程实战-orange?style=for-the-badge" alt="视频教程"/></a>
-</p>
-
-
-这是一个 **完全免费开放** 的 AI 知识共享平台，汇总整合目前热门的 AI 工具相关信息，包括产品介绍、使用指南、工具测评、技巧分享、应用场景、AI 变现、行业资讯、教程资源等一系列内容。
-
-鱼皮希望带领大家打破 AI 技术的信息壁垒，让每个人都能平等获取 AI 时代的工具与认知，利用科技让生活更美好。
-
+[![ai-guide](images/preview.png)](https://github.com/Swift-Tech-Co)
 
 ## 🌐 Translations
 
@@ -37,7 +18,7 @@
 
 如今 **Vibe Coding（氛围编程）** 已经火遍全网！不仅是程序员，连设计师、产品运营、甚至完全不懂技术的人都开始用 Vibe Coding 实现自己的想法，用 AI 做出了自己的产品并盈利变现。
 
-我一人爆肝创作了这套 [《Vibe Coding 零基础入门教程》](https://www.swifttechco.com)，**上千张图、几十万字**，结合了我两年半的 AI 编程经验 + 项目开发经验 + 产品变现经验，目标只有一个：
+我一人爆肝创作了这套 《Vibe Coding 零基础入门教程》，**上千张图、几十万字**，结合了我两年半的 AI 编程经验 + 项目开发经验 + 产品变现经验，目标只有一个：
 
 **帮助任何人快速掌握 Vibe Coding，哪怕零基础，也能快速开发上线自己的产品并盈利。**
 
@@ -95,46 +76,46 @@
 
 | 资源 | 链接 |
 |:---|:---|
-| AI 基础概念 | [动画解释大模型](https://www.swifttechco.com) |
-| 关于 DeepSeek | [什么是 DeepSeek](https://www.swifttechco.com) ｜ [快速上手指南](https://www.swifttechco.com) |
-| 本地部署 | [DeepSeek 本地部署](https://www.swifttechco.com) ｜ [API 调用教程](https://www.swifttechco.com) |
-| 提问技巧 | [DeepSeek 提问技巧](https://www.swifttechco.com) ｜ [去除文章 AI 味](https://www.swifttechco.com) |
-| 学习资料 | [清华大学 DeepSeek 指南](https://www.swifttechco.com) ｜ [免费 AI 学习资源](https://www.swifttechco.com) |
+| AI 基础概念 | 动画解释大模型 |
+| 关于 DeepSeek | 什么是 DeepSeek ｜ 快速上手指南 |
+| 本地部署 | DeepSeek 本地部署 ｜ API 调用教程 |
+| 提问技巧 | DeepSeek 提问技巧 ｜ 去除文章 AI 味 |
+| 学习资料 | 清华大学 DeepSeek 指南 ｜ 免费 AI 学习资源 |
 
 
 ### AI 编程
 
 | 类别 | 精选内容 |
 |:---|:---|
-| 🔥 热门教程 | [AI 智能体项目](https://www.swifttechco.com) ｜ [AI 零代码平台](https://www.swifttechco.com) ｜ [AI 大模型应用开发学习路线](https://www.swifttechco.com) |
-| Cursor 技巧 | [一文秒懂 Cursor 开发的正确姿势](https://www.swifttechco.com) ｜ [10 个超实用的 Cursor 使用技巧](https://www.swifttechco.com) ｜ [7 个 Cursor 极限省钱大法](https://www.swifttechco.com) |
-| 实战项目 | [用 DeepSeek 给对象做网站](https://www.swifttechco.com) ｜ [模拟面试系统](https://www.swifttechco.com) ｜ [亲戚计算器](https://www.swifttechco.com) |
-| 进阶技术 | [Claude Code 神级技巧](https://www.swifttechco.com) ｜ [用 AI 手搓 Claude Code](https://www.swifttechco.com) ｜ [MCP 服务开发](https://www.swifttechco.com) |
-| 框架整合 | [Spring AI 1.0 核心能力体验](https://www.swifttechco.com) ｜ [Spring AI Alibaba 1.0 速览](https://www.swifttechco.com) |
+| 🔥 热门教程 | AI 智能体项目 ｜ AI 零代码平台 ｜ AI 大模型应用开发学习路线 |
+| Cursor 技巧 | 一文秒懂 Cursor 开发的正确姿势 ｜ 10 个超实用的 Cursor 使用技巧 ｜ 7 个 Cursor 极限省钱大法 |
+| 实战项目 | 用 DeepSeek 给对象做网站 ｜ 模拟面试系统 ｜ 亲戚计算器 |
+| 进阶技术 | Claude Code 神级技巧 ｜ 用 AI 手搓 Claude Code ｜ MCP 服务开发 |
+| 框架整合 | Spring AI 1.0 核心能力体验 ｜ Spring AI Alibaba 1.0 速览 |
 
 
 ### AI 工具测评
 
 | 测评内容 |
 |:---|
-| [🆕 GPT-5 炸裂登场！可免费使用](https://www.swifttechco.com) |
-| [Claude 4 炸裂发布！凭什么敢称宇宙最强编程 AI？](https://www.swifttechco.com) |
-| [Cursor 2.0 炸裂发布！这 3 大亮点必学](https://www.swifttechco.com) |
-| [Gemini 3.0 发布！前端又无了？](https://www.swifttechco.com) |
-| [开源 AI 编程工具能干掉 Claude Code？OpenCode 体验实测！](https://www.swifttechco.com) |
-| [3 大模型对比测试！AI 争霸赛谁赢了？](https://www.swifttechco.com) |
-| [全球首个无限执行的 AI！Flowith 体验](https://www.swifttechco.com) |
-| [Gemini CLI 首测，免费开源很香，但坑点很多！](https://www.swifttechco.com) |
+| 🆕 GPT-5 炸裂登场！可免费使用 |
+| Claude 4 炸裂发布！凭什么敢称宇宙最强编程 AI？ |
+| Cursor 2.0 炸裂发布！这 3 大亮点必学 |
+| Gemini 3.0 发布！前端又无了？ |
+| 开源 AI 编程工具能干掉 Claude Code？OpenCode 体验实测！ |
+| 3 大模型对比测试！AI 争霸赛谁赢了？ |
+| 全球首个无限执行的 AI！Flowith 体验 |
+| Gemini CLI 首测，免费开源很香，但坑点很多！ |
 
 
 ### 其他 AI 应用场景
 
 | 场景 | 教程 |
 |:---|:---|
-| 视频创作 | [用 AI 做千万播放的爆款视频！](https://www.swifttechco.com) ｜ [1 分钟做出动物奥运会视频！](https://www.swifttechco.com) |
-| 办公效率 | [AI 王炸组合，自动生成 PPT](https://www.swifttechco.com) ｜ [干掉 Draw.io 的画图神器](https://www.swifttechco.com) |
-| 知识管理 | [轻松搭建 DeepSeek 个人知识库](https://www.swifttechco.com) ｜ [让 AI 帮我读文档](https://www.swifttechco.com) |
-| 求职提升 | [用 AI 润色简历](https://www.swifttechco.com) ｜ [3 个免费 AI 文章检测工具](https://www.swifttechco.com) |
+| 视频创作 | 用 AI 做千万播放的爆款视频！ ｜ 1 分钟做出动物奥运会视频！ |
+| 办公效率 | AI 王炸组合，自动生成 PPT ｜ 干掉 Draw.io 的画图神器 |
+| 知识管理 | 轻松搭建 DeepSeek 个人知识库 ｜ 让 AI 帮我读文档 |
+| 求职提升 | 用 AI 润色简历 ｜ 3 个免费 AI 文章检测工具 |
 
 
 ## 仓库结构
@@ -229,7 +210,7 @@ ai-guide/
 
 🎬 作者的视频合集：https://www.swifttechco.com
 
-💬 交流反馈：欢迎在 [AI 导航社区](https://www.swifttechco.com) 提问
+💬 交流反馈：欢迎在 AI 导航社区 提问
 
 ---
 
@@ -241,14 +222,22 @@ AI Automation | FinTech Platforms | Custom Software and Mobile Apps | SaaS Platf
 
 **Join our community on Telegram:** [t.me/+Qt_eFvkb2rliMzNh](https://t.me/+Qt_eFvkb2rliMzNh)
 
-[Home](https://www.swifttechco.com) | [Services](https://www.swifttechco.com/services) | [Careers](https://www.swifttechco.com/careers) | [Referral Program](https://www.swifttechco.com/referral) | [Influencers](https://www.swifttechco.com/influencers) | [About](https://www.swifttechco.com/about) | [Contact](https://www.swifttechco.com/contact)
+Home | Services | Careers | Referral Program | Influencers | About | Contact
 
 **Connect**
 
-- Website: [swifttechco.com](https://www.swifttechco.com)
+- Website: swifttechco.com
 - LinkedIn: [linkedin.com/in/stephenoladoke](https://www.linkedin.com/in/stephenoladoke/)
 - LinkedIn (Company): [linkedin.com/company/swift-tech-co](https://www.linkedin.com/company/swift-tech-co)
 - X: [@MrOladoke](https://x.com/MrOladoke)
 - Instagram: [@mr.oladoke](https://www.instagram.com/mr.oladoke/)
 - Instagram (Company): [@swifttechco](https://www.instagram.com/swifttechco/)
 - Organization: [github.com/Swift-Tech-Co](https://github.com/Swift-Tech-Co)
+
+## Sources
+
+Compiled and maintained from upstream [liyupi/ai-guide](https://github.com/liyupi/ai-guide) under permissive open-source license.
+
+---
+
+Maintained by [Swift Tech Co.](https://github.com/Swift-Tech-Co) - [Telegram](https://t.me/+Qt_eFvkb2rliMzNh)
